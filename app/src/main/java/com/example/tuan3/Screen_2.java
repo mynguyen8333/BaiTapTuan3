@@ -11,7 +11,7 @@ public class Screen_2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_screen_);
+        setContentView(R.layout.activity_screen_2);
         btn_xanh = findViewById(R.id.button3);
         btn_do = findViewById(R.id.button7);
         btn_den = findViewById(R.id.button8);
